@@ -3,6 +3,7 @@
 - Bisexual 💗💜💙
 - Rust enjoyer 🦀
 - Home Datacenter Admin™️
+- I use Arch and Void, btw.
 
 <!-- TODO: Add some more stuff here, e.g. hardware and software -->
 
