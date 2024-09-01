@@ -3,7 +3,7 @@
 - Bisexual 💗💜💙
 - Rust enjoyer 🦀
 - Home Datacenter Admin™️
-- I use Arch and Void, btw.
+- I use Arch, btw. Interested in Void Linux and NixOS.
 
 <!-- TODO: Add some more stuff here, e.g. hardware and software -->
 
