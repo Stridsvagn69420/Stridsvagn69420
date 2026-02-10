@@ -1,14 +1,4 @@
-# What's up?👋
-- German 🖤❤️💛
-- Bisexual 💗💜💙
-- Rust enjoyer 🦀
-- Linux enthusiast 🐧
-- Home datacenter admin™️
-- I use Arch, btw.
+## Hey there 👋
+My main projects are now on [Codeberg](https://codeberg.org/Stridsvagn69420)!
 
-<!-- TODO: Add some more stuff here, e.g. hardware and software -->
-
-<hr>
-
-<!--[![Discord Presence](https://lanyard.cnrad.dev/api/490862024608317440)](https://discord.com/users/490862024608317440)-->
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stridsvagn69420&layout=compact&count_private=true&hide_title=true&theme=github_dark)
+This profile README isn't synced with the one on there, so check it out if you want to know more about me.
